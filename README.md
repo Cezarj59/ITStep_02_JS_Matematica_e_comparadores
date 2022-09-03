@@ -6,5 +6,5 @@
 <ul><h3>Tópicos</h3>
 <li>Math.random</li>
 <li>Number</li>
-<li>toFixed</li>
+<li>Operadores Aritméticos</li>
 </ul>
